@@ -1,5 +1,4 @@
-# Calculator ReactJS for MARACTIVITY
-
+# Calculator ReactJS 
 This is a simple arithmetic calculator built with REACT.JS library for MARACTIVITY.  
 
 Please see the project at this link-  [heroku](https://calculator-n.herokuapp.com/)
