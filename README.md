@@ -1,7 +1,7 @@
 # Calculator ReactJS 
 This is a simple arithmetic calculator built with REACT.JS library for MARACTIVITY.  
 
-Please see the project at this link-  [heroku](https://calculator-n.herokuapp.com/)
+Please see the project at this link-  [heroku calculator](https://calculator-n.herokuapp.com/)
 
 To run it on your local machine clone into the repo, then type: 
 
